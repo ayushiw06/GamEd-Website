@@ -1,0 +1,59 @@
+/* TopicResources.css */
+
+.topic-resources {
+    text-align: center;
+    padding: 20px;
+    background-color:black;
+    color: #d4ff59;
+    font-family: Arial, sans-serif;
+  }
+  
+  .resource-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .book-image {
+    margin-left: 90px;
+    border:1px solid #d4ff59;
+    border-radius: 10px;
+    box-shadow:0px 5px 50px 0px #d4ff59;
+
+  }
+  
+  .book-image img {
+    max-width: 200px; /* Adjust the size as needed */
+    border: 1px solid #000;
+    border-radius: 5px;
+  }
+  
+  .video-container {
+    flex: 1;
+  }
+  
+  .action-buttons {
+    margin-top: 20px;
+  }
+  
+  .quiz-button,
+  .mark-completed-button {
+    padding: 10px 20px;
+    background-color: #d4ff59;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .quiz-button:hover,
+  .mark-completed-button:hover {
+    background-color: #ff007f;
+  }
+  /* body{
+    background-color: #000;
+  } */

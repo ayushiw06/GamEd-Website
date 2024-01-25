@@ -1,0 +1,56 @@
+
+.profapp {
+    text-align: center;
+    background-color: #000000;
+    color:#FF007F;
+    padding: 20px;
+    height: 200px;
+  } 
+  
+  
+
+  .Profile, .Search {
+    background-color: #FF007F;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: left;
+    color: #582f2f;
+  }
+  
+  .Search {
+    text-align: center;
+  }
+  
+ /* input, button {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    background-color: #555;
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    width: 100%;
+  }
+  
+  button {
+    cursor: pointer;
+  } */
+  
+  .navbar {
+    text-align: left;
+    background-color: #333;
+    padding: 10px;
+  }
+/*   
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #555;
+    color: #555;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+   */

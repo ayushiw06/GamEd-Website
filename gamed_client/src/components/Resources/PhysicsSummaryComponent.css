@@ -1,0 +1,41 @@
+.physics-summary {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000;
+  color: #01EFFE;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.summary {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.4;
+}
+
+strong {
+  color: #FF007F;
+}
+
+.go-back-button {
+  display: block;
+  background-color: #FF007F;
+  color: #01EFFE;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.go-back-button:hover {
+  background-color: #D4FF59;
+}

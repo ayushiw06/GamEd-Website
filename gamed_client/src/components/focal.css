@@ -1,0 +1,10 @@
+/* App.css */
+.focal{
+    text-align: center;
+    background-color: #FF007F; /* Background color */
+    color: #D4FF59; /* Text color */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Move content to the top of the page */
+}
